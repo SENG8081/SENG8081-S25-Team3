@@ -6,9 +6,7 @@
   Lohith Reddy Danda 
 
   
-**Crypto Analytics & Forecast Dashboard
-
-Project Overview**
+**Crypto Analytics & Forecast Dashboard Project Overview**
 
 This project ingests historical Bitcoin (BTC) and Ethereum (ETH) price and volume data from Yahoo Finance, stores it in a Bronze/Silver/Gold data architecture on SQL Server, performs data cleaning and advanced feature engineering with PySpark/Pandas, generates multi-horizon forecasts, and visualizes interactive dashboards in Power BI to compare and forecast crypto performance.
 
